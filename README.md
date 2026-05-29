@@ -16,13 +16,13 @@ I build production software end to end — from **Python / FastAPI** back ends t
 
 | Project | What it is |
 | --- | --- |
-| **Report Engine LT** | Full-stack pipeline (React/TS + Python/FastAPI) using LLM-assisted extraction to convert complex vendor PDFs into standards-compliant structured data, fronted by a no-code rule builder. |
+| **Data Parsing| Full-stack pipeline (React/TS + Python/FastAPI) using LLM-assisted extraction to convert complex vendor PDFs into standards-compliant structured data, fronted by a no-code rule builder. |
 | **Well Transition Tracker** | Real-time application on the Corva platform — award-winning and adopted by operations teams in production. |
 | **Completion Plan** | Native **PyQt6** desktop app that replaced a fragile 37-sheet spreadsheet workflow with single-interface, multi-format document generation. |
 | **SnapGuard** | Cross-platform mobile app (**React Native / Expo**) with Firebase + RevenueCat, architected end to end. |
 | **AI Data Intelligence Platform** *(in progress)* | LLM extraction, document grounding, and a queryable data layer on Snowflake. |
 
-> 📌 *Pin these repos on your profile and update the names/links to match.*
+
 
 ---
 
