@@ -56,13 +56,6 @@ I build production software end to end — from **Python / FastAPI** back ends t
 
 ---
 
-### 📊 GitHub Stats
-
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=hughpaud2014&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hughpaud2014&layout=compact&hide_border=true)
-
----
-
 ### 📫 Connect
 
 - 💼 LinkedIn: [paul-hughes-99a79b5b](https://www.linkedin.com/in/paul-hughes-99a79b5b/)
