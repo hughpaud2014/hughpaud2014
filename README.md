@@ -4,10 +4,10 @@
 
 I build production software end to end — from **Python / FastAPI** back ends to **React / TypeScript** front ends — with a focus on turning messy, real-world data into tools people actually use. I spent two decades in high-stakes energy operations and taught myself to ship the software the industry was missing: real-time platform apps, desktop tooling, and LLM-powered data pipelines. I like greenfield problems with no off-the-shelf answer.
 
-- 🔭 Currently building an **applied-AI data-intelligence platform** (LLM extraction + retrieval on Snowflake)
+- 🔭 Currently building **PodStream AI** — a personal applied-AI product
 - 🛠️ Full-stack across **React · TypeScript · Python · FastAPI · Node.js**
 - 🤖 Applied AI: **LLM document extraction, structured outputs, retrieval & grounding**
-- 🏆 **CORVA Coding Olympics — Biggest Impact Award**
+- 🏆 **Biggest Impact Award** — developer coding competition
 - 🎓 Data Science certifications — **Harvard (edX)** · **Duke (Coursera)**
 
 ---
@@ -16,13 +16,13 @@ I build production software end to end — from **Python / FastAPI** back ends t
 
 | Project | What it is |
 | --- | --- |
-| **Data Parsing| Full-stack pipeline (React/TS + Python/FastAPI) using LLM-assisted extraction to convert complex vendor PDFs into standards-compliant structured data, fronted by a no-code rule builder. |
-| **Well Transition Tracker** | Real-time application on the Corva platform — award-winning and adopted by operations teams in production. |
-| **Completion Plan** | Native **PyQt6** desktop app that replaced a fragile 37-sheet spreadsheet workflow with single-interface, multi-format document generation. |
-| **SnapGuard** | Cross-platform mobile app (**React Native / Expo**) with Firebase + RevenueCat, architected end to end. |
-| **AI Data Intelligence Platform** *(in progress)* | LLM extraction, document grounding, and a queryable data layer on Snowflake. |
+| **PodStream AI** *(personal)* | An applied-AI product I'm building solo — *[add a one-line description of what it does]*. |
+| **SnapGuard** *(personal)* | Cross-platform mobile app (**React Native / Expo**) with Firebase + RevenueCat, architected end to end. |
+| **Real-Time Operations App** *(proprietary)* | Production real-time data application built on an industry analytics platform; recognized with a platform-wide Biggest Impact Award. |
+| **Document Intelligence Engine** *(proprietary)* | Full-stack pipeline (**React/TS + Python/FastAPI**) using LLM-assisted extraction to turn complex documents into clean, structured data, fronted by a no-code rule builder. |
+| **Desktop Workflow Builder** *(proprietary)* | Native **PyQt6** desktop app that replaced a fragile multi-sheet spreadsheet process with single-interface, multi-format document generation. |
 
-
+> 📌 *Projects marked "proprietary" were built independently but relate to my current employer's domain, so names are kept generic. Pin your public repos (SnapGuard, PodStream AI) and update the links.*
 
 ---
 
