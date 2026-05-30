@@ -4,7 +4,7 @@
 
 I build production software end to end — from **Python / FastAPI** back ends to **React / TypeScript** front ends — with a focus on turning messy, real-world data into tools people actually use. I spent two decades in high-stakes energy operations and taught myself to ship the software the industry was missing: real-time platform apps, desktop tooling, and LLM-powered data pipelines. I like greenfield problems with no off-the-shelf answer.
 
-- 🔭 Currently building **PodStream AI** — a personal applied-AI product
+- 🔭 Currently building **full-stack AI** — **PodStream AI** and an end-to-end ML insight platform
 - 🛠️ Full-stack across **React · TypeScript · Python · FastAPI · Node.js**
 - 🤖 Applied AI: **LLM document extraction, structured outputs, retrieval & grounding**
 - 🏆 **Biggest Impact Award** — developer coding competition
@@ -16,13 +16,15 @@ I build production software end to end — from **Python / FastAPI** back ends t
 
 | Project | What it is |
 | --- | --- |
-| **PodStream AI** *(personal)* | An applied-AI product I'm building solo — *[add a one-line description of what it does]*. |
-| **SnapGuard** *(personal)* | Cross-platform mobile app (**React Native / Expo**) with Firebase + RevenueCat, architected end to end. |
-| **Real-Time Operations App** *(proprietary)* | Production real-time data application built on an industry analytics platform; recognized with a platform-wide Biggest Impact Award. |
-| **Document Intelligence Engine** *(proprietary)* | Full-stack pipeline (**React/TS + Python/FastAPI**) using LLM-assisted extraction to turn complex documents into clean, structured data, fronted by a no-code rule builder. |
-| **Desktop Workflow Builder** *(proprietary)* | Native **PyQt6** desktop app that replaced a fragile multi-sheet spreadsheet process with single-interface, multi-format document generation. |
+| **[AI Insight Platform](https://github.com/hughpaud2014/hughes_soi_ML)** | A complete, end-to-end **full-stack AI / ML** project — data pipeline, model, and application layer, built in **Python**. |
+| **[PodStream AI](https://github.com/hughpaud2014/podstream-ai)** | AI-enhanced podcast / audio streaming app — **Python + React**. |
+| **[Whispr](https://github.com/hughpaud2014/whispr-chat-app)** | Secure 1:1 chat app — **React** + **Firebase** (Auth · Firestore · Storage) with end-to-end encryption. |
+| **[SnapGuard](https://github.com/hughpaud2014/snapguard)** | Cross-platform mobile app — **React Native / Expo**, Firebase, RevenueCat. |
+| **[Book Review App](https://github.com/hughpaud2014/Book-Review-App)** | Full-stack CRUD application — **Node / Express + React**. |
+| **[Bloom Valley Nursery](https://github.com/hughpaud2014/bloom-valley-nursery)** | Responsive storefront web app — **React** + modern CSS. |
+| **[Portfolio](https://github.com/hughpaud2014/personal-profolio)** | Personal portfolio site. |
 
-> 📌 *Projects marked "proprietary" were built independently but relate to my current employer's domain, so names are kept generic. Pin your public repos (SnapGuard, PodStream AI) and update the links.*
+> 📌 *I also build production data & reporting tools within my professional domain; those repos stay private.*
 
 ---
 
